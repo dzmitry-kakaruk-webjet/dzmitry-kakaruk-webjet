@@ -40,6 +40,11 @@ Github:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extensive logging with Serilog](https://kokaruk.com/2020/08/serilog/)
+- [C# Lazy init fields](https://kokaruk.com/2018/12/01/c-lazy-init-fields/)
+- [homebrew and tomcat](https://kokaruk.com/2018/05/25/brew-and-tomcat/)
+- [Fill field with colour on change](https://kokaruk.com/2018/05/10/fill-field-with-colour-on-change/)
+- [Custom radio in Acrobat](https://kokaruk.com/2018/05/01/139-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
